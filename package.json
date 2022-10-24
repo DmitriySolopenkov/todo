@@ -9,9 +9,9 @@
     "express-react-views": "^0.5.1",
     "browserify-shim": "~3.8.16",
     "minimist": "^1.2.7",
-    "node-jsx": "^0.11.0",
-    "react": "^0.11.2",
-    "react-tools": "^0.11.2",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "react-tools": "^0.13.3",
     "swarm": "^0.3.25",
     "ws": "^8.10.0"
   },
