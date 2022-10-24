@@ -1,5 +1,5 @@
 {
-  "name": "todomvc-swarm",
+  "name": "todo",
   "version": "0.0.1",
   "description": "Example React+Swarm TodoMVC app.",
   "main": "dist/TodoApp.app.js",
